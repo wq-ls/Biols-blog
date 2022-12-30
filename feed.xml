@@ -3,10 +3,32 @@
     <title>Biols</title>
     <link href="https://wq-ls.github.io/Biols-blog/feed.xml" rel="self" />
     <link href="https://wq-ls.github.io/Biols-blog" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2022-12-30T18:14:42+08:00</updated>
     <author>
         <name>Shuoli</name>
     </author>
     <id>https://wq-ls.github.io/Biols-blog</id>
 
+    <entry>
+        <title>第一篇博客</title>
+        <author>
+            <name>Shuoli</name>
+        </author>
+        <link href="https://wq-ls.github.io/Biols-blog/di-yi-pian-bo-ke.html"/>
+        <id>https://wq-ls.github.io/Biols-blog/di-yi-pian-bo-ke.html</id>
+
+        <updated>2022-12-30T18:14:42+08:00</updated>
+            <summary>
+                <![CDATA[
+                    Test head
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="test">Test</h2>
+<h3 id="head">head</h3>
+
+            ]]>
+        </content>
+    </entry>
 </feed>
