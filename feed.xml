@@ -3,31 +3,34 @@
     <title>Bio-ls</title>
     <link href="https://wq-ls.github.io/Biols-blog/feed.xml" rel="self" />
     <link href="https://wq-ls.github.io/Biols-blog" />
-    <updated>2022-12-30T18:16:32+08:00</updated>
+    <updated>2022-12-31T17:23:18+08:00</updated>
     <author>
         <name>Shuoli</name>
     </author>
     <id>https://wq-ls.github.io/Biols-blog</id>
 
     <entry>
-        <title>第一篇博客</title>
+        <title>博观，勤记，勤思</title>
         <author>
             <name>Shuoli</name>
         </author>
-        <link href="https://wq-ls.github.io/Biols-blog/di-yi-pian-bo-ke/"/>
-        <id>https://wq-ls.github.io/Biols-blog/di-yi-pian-bo-ke/</id>
+        <link href="https://wq-ls.github.io/Biols-blog/ruo-wu-jin-hua-zhi-guangsheng-wu-xue-hao-wu-dao-li/"/>
+        <id>https://wq-ls.github.io/Biols-blog/ruo-wu-jin-hua-zhi-guangsheng-wu-xue-hao-wu-dao-li/</id>
 
-        <updated>2022-12-30T18:16:32+08:00</updated>
+        <updated>2022-12-31T17:23:18+08:00</updated>
             <summary>
                 <![CDATA[
-                    Test head
+                    Nothing in biology makes sense except in the light of evolution. ——Theodosius Dobzhansky 生命不息，演化不止，探索不止。 不定期记录生物信息学相关零零碎碎于此，与诸君共同探讨。
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h2 id="test">Test</h2>
-<h3 id="head">head</h3>
-
+                <blockquote>
+<p class="align-right"><strong>Nothing in biology makes sense except in the light of evolution.              </strong><strong>——Theodosius Dobzhansky</strong></p>
+</blockquote>
+<p>生命不息，演化不止，探索不止。</p>
+<p>不定期记录生物信息学相关零零碎碎于此，与诸君共同探讨。</p>
+<p> </p>
             ]]>
         </content>
     </entry>

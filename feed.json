@@ -10,18 +10,18 @@
     },
     "items": [
         {
-            "id": "https://wq-ls.github.io/Biols-blog/di-yi-pian-bo-ke/",
-            "url": "https://wq-ls.github.io/Biols-blog/di-yi-pian-bo-ke/",
-            "title": "第一篇博客",
-            "summary": "Test head",
-            "content_html": "<h2 id=\"test\">Test</h2>\n<h3 id=\"head\">head</h3>\n",
+            "id": "https://wq-ls.github.io/Biols-blog/ruo-wu-jin-hua-zhi-guangsheng-wu-xue-hao-wu-dao-li/",
+            "url": "https://wq-ls.github.io/Biols-blog/ruo-wu-jin-hua-zhi-guangsheng-wu-xue-hao-wu-dao-li/",
+            "title": "博观，勤记，勤思",
+            "summary": "Nothing in biology makes sense except in the light of evolution. ——Theodosius Dobzhansky 生命不息，演化不止，探索不止。 不定期记录生物信息学相关零零碎碎于此，与诸君共同探讨。",
+            "content_html": "<blockquote>\n<p class=\"align-right\"><strong>Nothing in biology makes sense except in the light of evolution.              </strong><strong>——Theodosius Dobzhansky</strong></p>\n</blockquote>\n<p>生命不息，演化不止，探索不止。</p>\n<p>不定期记录生物信息学相关零零碎碎于此，与诸君共同探讨。</p>\n<p> </p>",
             "author": {
                 "name": "Shuoli"
             },
             "tags": [
             ],
-            "date_published": "2022-12-30T18:14:42+08:00",
-            "date_modified": "2022-12-30T18:16:32+08:00"
+            "date_published": "2022-12-31T17:05:19+08:00",
+            "date_modified": "2022-12-31T17:23:18+08:00"
         }
     ]
 }
