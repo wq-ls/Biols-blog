@@ -3,7 +3,7 @@
     <title>Bio-ls</title>
     <link href="https://wq-ls.github.io/Biols-blog/feed.xml" rel="self" />
     <link href="https://wq-ls.github.io/Biols-blog" />
-    <updated>2023-01-03T15:05:21+08:00</updated>
+    <updated>2023-01-03T15:08:05+08:00</updated>
     <author>
         <name>Shuoli</name>
     </author>
@@ -14,10 +14,10 @@
         <author>
             <name>Shuoli</name>
         </author>
-        <link href="https://wq-ls.github.io/Biols-blog/cong-ji-yin-liao-qi1/"/>
-        <id>https://wq-ls.github.io/Biols-blog/cong-ji-yin-liao-qi1/</id>
+        <link href="https://wq-ls.github.io/Biols-blog/article20230103/"/>
+        <id>https://wq-ls.github.io/Biols-blog/article20230103/</id>
 
-        <updated>2023-01-03T15:05:21+08:00</updated>
+        <updated>2023-01-03T15:08:05+08:00</updated>
             <summary>
                 <![CDATA[
                     序列准确性 随着测序技术快速发展，大量的物种基因组等被测序。对这些物种的序列信息进行分析，有助于我们更多地认识生物演化，预测、了解基因的功能。 但是能准确对基因进行分析的前提是：这个基因就是我们要研究的那个基因——基因序列要准确。 有些实验室的同学们可能就根据所看的文献中的提到的基因，也想在自己研究的物种中做做看。于是迫不及待地从数据库中找到该物种的基因直接就开始设计引物，准备大展身手。 别急，再确认一下你要研究的基因。 举个例子，ensembl 数据库中编号为 ENSORLG00000017796 基因注释为tlr7，但其实是 frmpd4&hellip;
