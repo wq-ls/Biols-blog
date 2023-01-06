@@ -3,7 +3,7 @@
     <title>Bio-ls</title>
     <link href="https://wq-ls.github.io/Biols-blog/feed.xml" rel="self" />
     <link href="https://wq-ls.github.io/Biols-blog" />
-    <updated>2023-01-06T14:31:41+08:00</updated>
+    <updated>2023-01-06T14:32:43+08:00</updated>
     <author>
         <name>Shuoli</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://wq-ls.github.io/Biols-blog/cong-ji-yin-liao-qi2/"/>
         <id>https://wq-ls.github.io/Biols-blog/cong-ji-yin-liao-qi2/</id>
 
-        <updated>2023-01-06T14:31:41+08:00</updated>
+        <updated>2023-01-06T14:32:43+08:00</updated>
             <summary>
                 <![CDATA[
                     &emsp;&emsp;对于一个基因，我们对其“基础属性”认识越全面，越对我们在后续进行实验和分析时提供更多的思路。 &emsp;&emsp;搞清楚正确的基因名和准确使用依然是首要先提的事。之前文章讲到数据库中可能存在基因名注释明显错误，当然这只是很少情况。 &emsp;&emsp;由于基因命名早期没有明确的统一规范，我们会遇到一种基因有很多别名的情况。 &emsp;&emsp;例如节律相关基因：BMAL1 (brain and muscle ARNT-like 1) 与果蝇的CYC&hellip;
